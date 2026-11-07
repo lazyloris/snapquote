@@ -2,6 +2,8 @@
 
 Type the job. Send a quote they can sign.
 
+**Live:** https://snapquote-psi.vercel.app/
+
 Snapquote turns a one-line job description ("redo the homepage, 5 pages, contact form, 2 weeks") into a polished, branded quote page. The client opens the link, taps optional add-ons and watches the total update, signs by typing their name, and pays the deposit through your payment link.
 
 ## How it works
